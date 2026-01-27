@@ -6,7 +6,7 @@
 
 ##  Formação e Cursos
 
-- Desenvolvimento de Sistemas — em andamento
+- Desenvolvimento de Sistemas
 - Cursos complementares nas áreas de:
   - Python
   - Desenvolvimento Web
