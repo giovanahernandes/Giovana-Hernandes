@@ -10,7 +10,7 @@
 - Cursos complementares nas áreas de:
   - Python
   - Desenvolvimento Web
-  Certificados disponiveis no linkedin
+ - Certificados disponiveis no linkedin
  ---
 
 Interessada em tecnologia, programação e aprendizado contínuo  
