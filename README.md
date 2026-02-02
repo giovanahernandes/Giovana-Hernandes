@@ -6,7 +6,8 @@
 
 ##  Formação e Cursos
 
-- Desenvolvimento de Sistemas
+- Técnologo em desenvolvimento de Sistemas
+- Cursando o primeiro ano em engenharia da computação
 - Cursos complementares nas áreas de:
   - Python
   - Desenvolvimento Web
