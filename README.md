@@ -17,7 +17,7 @@
 Interessada em tecnologia, programação e aprendizado contínuo  
 
 Atualmente estou construindo minha base em desenvolvimento de software,
-com foco em backend, banco de dados e aplicações web simples.
+com foco em backend(Java), banco de dados e aplicações web simples.
 
 ---
 
@@ -29,6 +29,7 @@ Tenho estudado e praticado com:
 - **SQL** — fundamentos de banco de dados
 - **HTML, CSS e JavaScript** — desenvolvimento web básico
 - **Kotlin** — projetos acadêmicos
+- **Java** - projetos pessoais em andamento 
 ---
 
 ##  Em aprendizado contínuo
