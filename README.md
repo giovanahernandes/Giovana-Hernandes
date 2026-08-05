@@ -4,8 +4,8 @@
 
 ---
 # Formação
-Curso Técnico em Desenvolvimento de Sistemas (concluído)
-Cursando Segurança da Informação
+- Curso Técnico em Desenvolvimento de Sistemas (concluído)
+- Cursando Segurança da Informação
 Tecnologias
 
 # Tenho conhecimentos e experiência com:
